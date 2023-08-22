@@ -1,2 +1,2 @@
 # SpaceShip
-This is a 2D pixel-art game developed using the Unity engine. The game presents an engaging challenge where players must skillfully eliminate enemy ships while avoiding their own destruction to progress through various levels.
+This mobile game, developed using the Unity engine, offers a comprehensive 2D pixel art experience. Within the game's framework, players are challenged to eliminate enemy ships and progress through levels while avoiding their own destruction.
